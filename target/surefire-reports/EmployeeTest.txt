@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: CalculatorTest
+Test set: EmployeeTest
 -------------------------------------------------------------------------------
-Tests run: 50, Failures: 0, Errors: 0, Skipped: 8, Time elapsed: 0.076 s - in CalculatorTest
+Tests run: 80, Failures: 0, Errors: 0, Skipped: 40, Time elapsed: 0.075 s - in EmployeeTest

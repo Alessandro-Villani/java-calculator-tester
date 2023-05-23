@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="CalculatorTest" time="0.088" tests="50" errors="0" skipped="8" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="CalculatorTest" time="0.076" tests="50" errors="0" skipped="8" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IT"/>
     <property name="sun.boot.library.path" value="C:\Users\Yarsin\Desktop\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Yarsin\AppData\Local\Temp\surefire287364334178087158\surefirebooter6873351447213624241.jar C:\Users\Yarsin\AppData\Local\Temp\surefire287364334178087158 2023-05-23T14-57-39_594-jvmRun1 surefire8953426014972925805tmp surefire_01203300543598741420tmp"/>
+    <property name="sun.java.command" value="C:\Users\Yarsin\AppData\Local\Temp\surefire14863082173939169371\surefirebooter5763762000749918854.jar C:\Users\Yarsin\AppData\Local\Temp\surefire14863082173939169371 2023-05-23T17-46-11_291-jvmRun1 surefire12042716521417897395tmp surefire_03733268478622217271tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\java_projects\java-calculator-tester\target\test-classes;C:\java_projects\java-calculator-tester\target\classes;C:\Users\Yarsin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0-M1\junit-jupiter-engine-5.10.0-M1.jar;C:\Users\Yarsin\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0-M1\junit-platform-engine-1.10.0-M1.jar;C:\Users\Yarsin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Yarsin\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0-M1\junit-platform-commons-1.10.0-M1.jar;C:\Users\Yarsin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0-M1\junit-jupiter-api-5.10.0-M1.jar;C:\Users\Yarsin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Yarsin\AppData\Local\Temp\surefire287364334178087158\surefirebooter6873351447213624241.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Yarsin\AppData\Local\Temp\surefire14863082173939169371\surefirebooter5763762000749918854.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+10"/>
@@ -58,23 +58,23 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="divideTest[1]" classname="CalculatorTest" time="0.013"/>
-  <testcase name="divideTest[2]" classname="CalculatorTest" time="0"/>
+  <testcase name="divideTest[1]" classname="CalculatorTest" time="0.012"/>
+  <testcase name="divideTest[2]" classname="CalculatorTest" time="0.001"/>
   <testcase name="divideTest[3]" classname="CalculatorTest" time="0"/>
-  <testcase name="divideTest[4]" classname="CalculatorTest" time="0.001"/>
-  <testcase name="divideTest[5]" classname="CalculatorTest" time="0"/>
-  <testcase name="divideTest[6]" classname="CalculatorTest" time="0"/>
-  <testcase name="divideTest[7]" classname="CalculatorTest" time="0"/>
-  <testcase name="divideTest[8]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="divideTest[4]" classname="CalculatorTest" time="0"/>
+  <testcase name="divideTest[5]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="divideTest[6]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="divideTest[7]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="divideTest[8]" classname="CalculatorTest" time="0"/>
   <testcase name="divideTest[9]" classname="CalculatorTest" time="0"/>
-  <testcase name="divideTest[10]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="divideTest[10]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[1]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[2]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[3]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[4]" classname="CalculatorTest" time="0"/>
-  <testcase name="sumTest[5]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="sumTest[5]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[6]" classname="CalculatorTest" time="0"/>
-  <testcase name="sumTest[7]" classname="CalculatorTest" time="0"/>
+  <testcase name="sumTest[7]" classname="CalculatorTest" time="0.001"/>
   <testcase name="sumTest[8]" classname="CalculatorTest" time="0"/>
   <testcase name="sumTest[9]" classname="CalculatorTest" time="0.001"/>
   <testcase name="sumTest[10]" classname="CalculatorTest" time="0"/>
@@ -103,7 +103,11 @@
 	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
 </skipped>
   </testcase>
-  <testcase name="divideExcTest[4]" classname="CalculatorTest" time="0.003"/>
+  <testcase name="divideExcTest[4]" classname="CalculatorTest" time="0">
+    <skipped message="Assumption failed: assumption is not true" type="org.opentest4j.TestAbortedException">org.opentest4j.TestAbortedException: Assumption failed: assumption is not true
+	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
+</skipped>
+  </testcase>
   <testcase name="divideExcTest[5]" classname="CalculatorTest" time="0">
     <skipped message="Assumption failed: assumption is not true" type="org.opentest4j.TestAbortedException">org.opentest4j.TestAbortedException: Assumption failed: assumption is not true
 	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
@@ -119,25 +123,21 @@
 	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
 </skipped>
   </testcase>
-  <testcase name="divideExcTest[8]" classname="CalculatorTest" time="0">
-    <skipped message="Assumption failed: assumption is not true" type="org.opentest4j.TestAbortedException">org.opentest4j.TestAbortedException: Assumption failed: assumption is not true
-	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
-</skipped>
-  </testcase>
+  <testcase name="divideExcTest[8]" classname="CalculatorTest" time="0.002"/>
   <testcase name="divideExcTest[9]" classname="CalculatorTest" time="0">
     <skipped message="Assumption failed: assumption is not true" type="org.opentest4j.TestAbortedException">org.opentest4j.TestAbortedException: Assumption failed: assumption is not true
 	at CalculatorTest.divideExcTest(CalculatorTest.java:63)
 </skipped>
   </testcase>
   <testcase name="divideExcTest[10]" classname="CalculatorTest" time="0.001"/>
-  <testcase name="subtractTest[1]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtractTest[1]" classname="CalculatorTest" time="0"/>
   <testcase name="subtractTest[2]" classname="CalculatorTest" time="0"/>
-  <testcase name="subtractTest[3]" classname="CalculatorTest" time="0.003"/>
+  <testcase name="subtractTest[3]" classname="CalculatorTest" time="0.001"/>
   <testcase name="subtractTest[4]" classname="CalculatorTest" time="0"/>
-  <testcase name="subtractTest[5]" classname="CalculatorTest" time="0"/>
-  <testcase name="subtractTest[6]" classname="CalculatorTest" time="0.001"/>
-  <testcase name="subtractTest[7]" classname="CalculatorTest" time="0"/>
-  <testcase name="subtractTest[8]" classname="CalculatorTest" time="0.001"/>
-  <testcase name="subtractTest[9]" classname="CalculatorTest" time="0"/>
-  <testcase name="subtractTest[10]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtractTest[5]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtractTest[6]" classname="CalculatorTest" time="0"/>
+  <testcase name="subtractTest[7]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtractTest[8]" classname="CalculatorTest" time="0"/>
+  <testcase name="subtractTest[9]" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtractTest[10]" classname="CalculatorTest" time="0"/>
 </testsuite>
